@@ -1,0 +1,2 @@
+(self.webpackChunkvisualisation=self.webpackChunkvisualisation||[]).push([[939],{9793:function(a,t,e){"use strict";e.r(t);e(2791);var i=e(570),s=e(184);t.default=function(a){for(var t=[];t.length<1e3;)t.push(Math.random());return(0,s.jsx)("div",{style:{width:"100%",height:"100%"},children:(0,s.jsx)(i.G7,{id:"0",children:(0,s.jsxs)(i.rR,{children:[(0,s.jsx)(i.Oc,{}),(0,s.jsx)(i.Ej,{vtkClass:"vtkXMLImageDataReader",url:"https://data.kitware.com/api/v1/item/59e12e988d777f31ac6455c5/download"})]})})})}},5042:function(){}}]);
+//# sourceMappingURL=939.fb7d300a.chunk.js.map
